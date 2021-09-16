@@ -8,7 +8,7 @@ function carParkingRoof([...arr],k){
             container.innerHTML += `
                 <div data-id=${i} class="parkingPlace">
                 <a href="#" class="parkingNumber">${i}</a>
-                <img src="../images/big-black-car-top-view-icon-sport-car-sedan-small-mini-avto-city-automobile-vector-illustration-big-black-car-top-view-icon-128162249-removebg-preview.png">
+                <img src="./images/big-black-car-top-view-icon-sport-car-sedan-small-mini-avto-city-automobile-vector-illustration-big-black-car-top-view-icon-128162249-removebg-preview.png">
                 </div>`
         }else{
         container.innerHTML += `
